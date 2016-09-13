@@ -1,0 +1,64 @@
+.box1
+/*
+{
+    box-sizing: border-box;
+    width: 400px;
+    height: 1000px;
+    border: 100px silid black;
+    border-width: 5px;
+    border-radius: 3%;
+}
+*/
+
+
+/*原本在box1和box2畫兩個長方形  */
+
+{
+    width: 300px;
+    height: 900px;
+    background-color: rgb(222, 219, 245);
+    border-radius: 3%;
+    position: fixed;
+    top: auto;
+    left: auto;
+}
+
+.box2 {
+    width: 250px;
+    height: 500px;
+    background-color: #f02c2c;
+    border-radius: 3%;
+    position: fixed;
+    top: 50px;
+    left: 32px;
+}
+
+.box3 {
+    width: 100px;
+    height: 20px;
+    background-color: black;
+    border-radius: 30%;
+    position: fixed;
+    top: 25px;
+    left: 110px;
+}
+
+.box4 {
+    width: 15px;
+    height: 15px;
+    background-color: black;
+    border-radius: 50%;
+    position: fixed;
+    top: 25px;
+    left: 80px;
+}
+
+.box5 {
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    border-radius: 50%;
+    position: fixed;
+    top: 560px;
+    left: 130px;
+}
